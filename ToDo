@@ -1,0 +1,49 @@
+                ToDo for Budgety
+
+1. Add event handler for the button
+
+2. Get input values from input field
+
+3. Add the new item to our data structure
+
+4. Add the new item to the UI
+
+5. Calculate Budget
+
+6. Update the UI
+
+
+                ToDo 2 for Budgety 
+
+1. Add event handler 
+    a. Delete the item from our data structure.
+    b. Delete the item from the UI.
+    c. Re.calculate budget 
+    d. Update the UI.
+
+
+                ToDo 3 for Budgety
+
+1. Calculate percentages
+2. Update percentages in UI
+3. Display the current month and year
+4. Number formatting
+5. Improve input field UX
+
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+                Modules
+
+                UI Module
+1. Get input values from input field
+2. Add the new item to the UI
+3. Update the UI
+
+                Data Module
+1. Add the new item to our data structure
+2. Calculate Budget
+
+                Controller Module
+1. Add event handler
